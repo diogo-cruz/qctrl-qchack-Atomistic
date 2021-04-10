@@ -41,3 +41,4 @@ conda deactivate
 ## Sign Book
 
 - Miguel
+- João
