@@ -1,6 +1,0 @@
-[submodule "google"]
-	path = google
-	url = https://github.com/quantumlib/qchack-2021-challenge
-[submodule "microsoft"]
-	path = microsoft
-	url = https://github.com/quantumcoalition/qchack-microsoft-challenge
