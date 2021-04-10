@@ -38,7 +38,22 @@ python -c "import qctrl"
 conda deactivate
 ```
 
+## Discord names
+
+Diogo: `diogocruz#4865`
+
+Miguel: `Miguelmurca#7212`
+
+João: `Betoneira#6200`
+
+Óscar: `oxamaxo#3269`
+
+Sagar: `spratapsi#5719`
+
+
 ## Sign Book
 
 - Miguel
-- João
+=======
+- Diogo
+>>>>>>> a6d5cb232e360167943b860b58548631b1cb0a8f
