@@ -20,11 +20,19 @@ Google: ¯\\_(ツ)_/¯
 ## Diogo's quick & dirty install setup:
 
 ```
+conda create -n QSHARP -c quantum-engineering qsharp jupyterlab notebook
+conda activate QSHARP
+python -c "import qsharp"
+conda deactivate
 conda create -n QCHACK python=3
 conda activate QCHACK
 conda install -c conda-forge jupyterlab notebook
 pip install qiskit[visualization]
 pip install qctrl qctrl-visualizer qctrl-open-controls
 python -m pip install cirq
+python -c "import cirq"
+python -c "import qiskit"
+python -c "import qctrl"
+conda deactivate
 ```
 
