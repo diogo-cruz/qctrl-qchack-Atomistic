@@ -56,9 +56,5 @@ Sagar: `spratapsi#5719`
 - Miguel
 - Diogo
 - Oscar
-- João
-<<<<<<< HEAD
-=======
+- João M
 - Sagar
->>>>>>> e2354673af6f84c7d64bcf3305ac4112c470d1db
->>>>>>> 7edf86143a97ee806e3a363fa0cdbafb7a737614
