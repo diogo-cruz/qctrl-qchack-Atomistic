@@ -38,3 +38,6 @@ python -c "import qctrl"
 conda deactivate
 ```
 
+## Sign Book
+
+- Miguel
