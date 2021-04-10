@@ -17,7 +17,7 @@ Google: ¯\\_(ツ)_/¯
 
 `git add . && git commit -m "Diogo's Backup" && git push`
 
-After doing this once, I just do `!git`.
+After doing this once, I just do `!git` when I need to.
 
 ## Diogo's quick & dirty install setup:
 
