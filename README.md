@@ -1,4 +1,4 @@
-# QCHACK information
+# Q-CTRL QCHack Challenge Atomistic entry
 
 Info:
 <https://www.qchack.io/hacking>
