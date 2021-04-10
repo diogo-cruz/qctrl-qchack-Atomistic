@@ -54,6 +54,4 @@ Sagar: `spratapsi#5719`
 ## Sign Book
 
 - Miguel
-=======
 - Diogo
->>>>>>> a6d5cb232e360167943b860b58548631b1cb0a8f
