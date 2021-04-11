@@ -1,0 +1,10 @@
+2021-04-11 10:11:22,330 mloop                INFO     M-LOOP version 3.2.1
+2021-04-11 10:11:22,331 mloop                DEBUG    M-LOOP Logger configured.
+2021-04-11 10:11:22,331 mloop.interfaces     DEBUG    Creating interface.
+2021-04-11 10:11:22,332 mloop.controllers    DEBUG    Controller init completed.
+2021-04-11 10:11:22,333 mloop.learners.1     DEBUG    Learner init completed.
+2021-04-11 10:11:22,333 mloop.learners.1     DEBUG    Random learner init completed.
+2021-04-11 10:11:22,334 mloop.learners.1     DEBUG    Starting Random Learner
+2021-04-11 10:15:45,529 mloop.learners.1     DEBUG    Learner end signal received. Ending
+2021-04-11 10:15:46,531 mloop.learners.1     DEBUG    Performing shut down of learner.
+2021-04-11 10:15:46,533 mloop.learners.1     DEBUG    Ended Random Learner
